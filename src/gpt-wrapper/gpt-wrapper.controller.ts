@@ -14,5 +14,4 @@ export class GptWrapperController {
         //return await this.aiService.generateText("Please name a good shopp name that sell toy");
         return "test";
     }
-
 }
